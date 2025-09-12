@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaditya Kuldharan</h1>
 <h3 align="center">A passionate SQL Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadityakuldharan" alt="aadityakuldharan" /></a> </p>
-
 - 🌱 I’m currently learning **Power BI**
 
 - 👯 I’m looking to collaborate on **SQL Projects, Advanced Excel Projects**
