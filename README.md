@@ -23,10 +23,8 @@
 ---
 
 ### 📊 Projects  
-- 🔹 **[Power BI Dashboards](https://github.com/YourGitHubUserName/PowerBI-Dashboards)** – Interactive dashboards analyzing sales, performance & KPIs  
-- 🔹 **[MySQL Queries & Data Modeling](https://github.com/YourGitHubUserName/MySQL-Projects)** – Clean, transform, and analyze datasets  
-- 🔹 **[Advanced Excel Reports](https://github.com/YourGitHubUserName/Advanced-Excel-Reports)** – Automated reports & pivot tables  
-
+- 🔹 **[Smart Parking System](https://github.com/aadityakuldharan/Smart-Parking-System-SQL-Database-Analytics.git))** – A SQL-based database project to manage parking lots, slots, vehicles, and generate real-time revenue and occupancy analytics. 
+- 🔹 **[Railway Data Analysis]((https://github.com/aadityakuldharan/Railway-Data-Analysis-Advanced-Excel-Project.git)0)** – An Advanced Excel project using PivotTables, charts, and conditional formatting to analyze and visualize railway performance data.
 ---
 
 ### 🌟 Highlights & Certifications  
