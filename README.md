@@ -23,6 +23,7 @@
 ---
 
 ### 📊 Projects  
+- 🔹 **[Airport Traffic Analysis Dashboard](https://github.com/aadityakuldharan/Airport-Traffic-Management-Dashboard.git)** – A Power BI dashboard project delivering interactive visual analytics and insights from the airport traffic dataset."
 - 🔹 **[Smart Parking System](https://github.com/aadityakuldharan/Smart-Parking-System-SQL-Database-Analytics.git)** – A SQL-based database project to manage parking lots, slots, vehicles, and generate real-time revenue and occupancy analytics. 
 - 🔹 **[Railway Data Analysis](https://github.com/aadityakuldharan/Railway-Data-Analysis-Advanced-Excel-Project.git)** – An Advanced Excel project using PivotTables, charts, and conditional formatting to analyze and visualize railway performance data.
 
